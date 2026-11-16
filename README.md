@@ -1,4 +1,4 @@
-# AIUB-PathFinder: Academic Performance and Degree Intelligence System
+# AIUB PathFinder: Academic Performance and Degree Intelligence System
 
 CSC 4162 / BSE 4112: Programming in Python | Mid-Term Project | Fall 2026-27
 American International University-Bangladesh (AIUB)
